@@ -18,7 +18,7 @@ If you use Magisk, then you will need to install an additional application to ac
 After installing this application, you will be taken to the page of installed modules, which contain WebUI.
 Click on the Remove System Apps module, and the UI interface will open for you
 
-![photo_2025-08-29_00-18-57](https://github.com/user-attachments/assets/a2d2f9a1-db7b-44e7-9fcc-fcff7fe0b989)
+![Screenshot_2025-08-29-04-25-31-84_ae26140005300a1889275a71498bc9ff](https://github.com/user-attachments/assets/18114725-01ae-43b9-8fd9-52df507cb4c9)
 
 If you have already added your list of application packages via importing a text file, in the application list entry window. You can either delete them or save them.
 By clicking "Clear Packages List", you can clear the application list field and enter application packages manually. You can click "Update Info" to verify the application package list (number of applications, weight of the application list, and verification of the correct list)
