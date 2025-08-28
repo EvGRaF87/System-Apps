@@ -1,4 +1,6 @@
 # System-Apps
+<a href="https://t.me/OnePlus_11_12_13"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
+
 Present Module Magisk/KSU for Uninstall/Install system applications via WebRoot.
 
 ![photo_2025-08-29_00-21-55](https://github.com/user-attachments/assets/237aec34-415c-41c9-9d3a-33fa624ea8ad)
