@@ -22,3 +22,16 @@ Click on the Remove System Apps module, and the UI interface will open for you
 
 If you have already added your list of application packages via importing a text file, in the application list entry window. You can either delete them or save them.
 By clicking "Clear Packages List", you can clear the application list field and enter application packages manually. You can click "Update Info" to verify the application package list (number of applications, weight of the application list, and verification of the correct list)
+
+### KernelSU
+
++ Minimal KernelSU version: 10940
++ Minimal KernelSU Manager (ksud) version: 11575
+
+### Magisk
+
++ Minimal version: 26402
+## Compatibility
+Tested on BBK devices (OnePlus, Realme) 
+### Donation:
+[YooMoney](https://yoomoney.ru/to/4100117733642486)
