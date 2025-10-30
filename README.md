@@ -3,7 +3,9 @@
 
 Present Module Magisk/KSU for Uninstall/Install system applications via WebRoot.
 
-![photo_2025-08-29_00-21-55](https://github.com/user-attachments/assets/237aec34-415c-41c9-9d3a-33fa624ea8ad)
+
+![IMG_20251030_150126_163](https://github.com/user-attachments/assets/e6e45d80-b6c1-4b20-8b20-285ccf09c0f3)
+
 
 The module has a WebUI interface and a script (Action) of actions.
 
